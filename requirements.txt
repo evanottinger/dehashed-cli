@@ -1,0 +1,14 @@
+-i https://pypi.org/simple
+black==24.10.0
+certifi==2024.8.30 ; python_version >= '3.6'
+charset-normalizer==3.4.0 ; python_full_version >= '3.7.0'
+click==8.1.7 ; python_version >= '3.7'
+idna==3.10 ; python_version >= '3.6'
+mypy-extensions==1.0.0 ; python_version >= '3.5'
+packaging==24.2 ; python_version >= '3.8'
+pathspec==0.12.1 ; python_version >= '3.8'
+platformdirs==4.3.6 ; python_version >= '3.8'
+pyrate-limiter==2.10.0 ; python_version >= '3.7' and python_version < '4.0'
+requests==2.32.3 ; python_version >= '3.8'
+requests-ratelimiter==0.7.0
+urllib3==2.2.3 ; python_version >= '3.8'
